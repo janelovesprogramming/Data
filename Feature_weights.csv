@@ -1,0 +1,9 @@
+Factors,Features,Weights features
+Schools,ElemSchool,50
+Schools,MidSchool,30
+Schools,HighSchools,20
+Safety,SafetyFeatures,100
+Groceries,GroceriesFeatures,100
+SimilarPeople:Families,Families,30
+SimilarPeople:Young adults,YoungAdults,30
+SimilarPeople:Retirees,Retirees,30
